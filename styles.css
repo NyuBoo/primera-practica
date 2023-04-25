@@ -1,0 +1,46 @@
+body{
+    background: linear-gradient(220.55deg, #DD7BFF 0%, #FF6C6C 100%);
+}
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #EBD8B2;
+    font-size: 80px;
+    display: flex;
+  justify-content: center;
+}
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.div{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgba(103, 222, 200, 0.879);
+    border-radius: 15px;
+    
+}
+.estilizado{
+    font-size: 30px;
+    color: black;
+ }
+ .libros{
+    width: 300px;
+    height:400px;
+    margin-bottom: 30px;
+ }
+ .end{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: lightgrey;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+ }
